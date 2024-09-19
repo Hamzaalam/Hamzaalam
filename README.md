@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🤔 Think • 🎨 Design • 🛠️ Build • 🚢 Ship • 🔄 Repeat
+
 <!--
 **Hamzaalam/hamzaalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
