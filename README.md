@@ -2,7 +2,7 @@
 
 🤔 Think • 🎨 Design • 🛠️ Build • 🚢 Ship • 🔄 Repeat
 
-[![](https://visitcount.itsvg.in/api?id=hamzaalam&label=p&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hamzaalam&label=Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
 **Hamzaalam/hamzaalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
